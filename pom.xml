@@ -213,7 +213,12 @@
         <module>wot</module>
         <module>edge</module>
     </modules>
-
+    
+    <properties>
+  <sonar.organization>gittygithubby</sonar.organization>
+  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+    </properties>
+    
     <properties>
         <revision>0-SNAPSHOT</revision>
 
